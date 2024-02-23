@@ -7,7 +7,7 @@
 	LSTM cells with attention are used as decoder for generating the caption of the image.
 
 # Model
-	![Image-Captioning with visual Attention model.]([https://github.com/srikanth755/Image-captioning/assets/83875574/8aaaddc8-701e-4c8e-8ad0-09d177b053e1](https://github.com/srikanth755/Image-captioning/blob/main/model.png?raw=true))
+	![Image-Captioning with visual Attention model.](https://github.com/srikanth755/Image-captioning/blob/main/model.png?raw=true)
 
 # Image-captioning
 	Image Captioning with visual Attention
