@@ -10,8 +10,8 @@ LSTM cells with attention are used as decoder for generating the caption of the 
 ![Image-Captioning with visual Attention model.](https://github.com/srikanth755/Image-captioning/blob/main/model.png?raw=true)
 
 # Requirements needed
-The code was ran at RTX 3090 GPU and the using the python==3.9.18.
-Install the requirements.txt before hand.
+The code was ran at RTX 3090 GPU and the using the python==3.9.18.  
+Install the requirements.txt before hand using (python -r requirements.txt) in the command prompt.
 
 # Image-captioning
 First Download the dataset_flikr30k.json/flickr8k.json file from the link https://www.kaggle.com/datasets/shtvkumar/karpathy-splits?select=dataset_flickr30k.json.
